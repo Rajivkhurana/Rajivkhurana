@@ -1,16 +1,21 @@
-## Hi there 👋
+# Rajiv Khurana
 
-<!--
-**Rajivkhurana/Rajivkhurana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer focused on building and fixing real production systems.
 
-Here are some ideas to get you started:
+## Core Stack
+- Frontend: React, TypeScript, JavaScript, HTML, CSS
+- Backend: Node.js (Express), .NET
+- Database: PostgreSQL, SQL Server
+- Tooling: Git, PM2, Nginx, Docker (basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Work On
+- Refactoring messy or legacy code
+- API design, validation, and error handling
+- Performance and state management in React
+- Debugging production issues
+
+## How I Think
+I value:
+- Clarity over cleverness
+- Stability over shortcuts
+- Maintainable code over hype
